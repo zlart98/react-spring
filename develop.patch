@@ -1,0 +1,16 @@
+Index: src/component/FooterComponent.jsx
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/component/FooterComponent.jsx	(revision e0b5eb37277f6ad8c963561c1a5ca48293c06bb7)
++++ src/component/FooterComponent.jsx	(date 1641903167357)
+@@ -2,7 +2,7 @@
+ 
+ class FooterComponent extends Component {
+     constructor(props) {
+-        super(props)
++        super(props);
+ 
+         this.state = {
+                  
